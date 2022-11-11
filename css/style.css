@@ -411,6 +411,9 @@ color: #fff;
 font-family: 'Raleway', sans-serif;
 text-shadow: 3px 3px 6px #312a26;
 }
+.footer th{
+font-weight: 700;
+}
 .footer-form *{
 width: auto;
 }
@@ -419,14 +422,14 @@ width: auto;
 color: #fff;
 background-color: #19100f;
 overflow: auto;
-padding: 1em;
+padding: 1em 7.5%;
 }
 .social-widgets{
-width: 33%;
+width: 32.66%;
 float: left;
 text-align: center;
 }
-.sicial-widgets h3{
+.social-widgets h3{
 text-transform: uppercase;
 }
 .social-widgets img{
